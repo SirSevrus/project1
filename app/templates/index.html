@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+BE+VLG:wght@100..400&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/navStyles.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.png') }}" type="image/x-icon">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a class="navLnk" href="/home">Home</a></li>
+            <li><a class="navLnk" href="/shop">Shop</a></li>
+            <li><a class="navLnk" href="/docs">Docs</a></li>
+            <li><a class="navLnk" href="/test">testArea</a></li>
+        </ul>
+    </nav>
+    <h1 class="greetMsg">WebsiteName Welcomes {{ username }} Here!</h1>
+    <div class="main">
+        <p id="fontCursive">Our Website Welcomes you to our incredible platform.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 WebsiteName all rights reserved</p>
+    </footer>
+</body>
+</html>

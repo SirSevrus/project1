@@ -1,0 +1,2 @@
+WORKFLOW - 
+1. Taking input and maipulating it in html and on the server side.
