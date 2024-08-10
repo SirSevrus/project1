@@ -3,8 +3,8 @@
 **AIM –** To help students to manage their stuff like syllabus, notes, date sheets.
 
 **REQUIREMENTS -**  
-1. Python 3.11 or above.** 
-1. Operating System – Windows or Linux Based.** 
+1. Python 3.11 or above.
+1. Operating System – Windows or Linux Based.
 
 **DESCRIPTION-** The basic idea behind making the project is to understand many great things in python programming which are helpful in developing larger and complex applications. Like the code must be to the point, create less errors, well structured, commented and time efficient code. My main motive is to help myself sharpen my skills. On the other hand, it will create a better application for students who are looking for a way to manage their academic things.
 
