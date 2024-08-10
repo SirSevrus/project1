@@ -1,8 +1,8 @@
 **PROJECT 1** 
 
 **AIM –** To help students to manage their stuff like syllabus, notes, date sheets.
-**REQUIREMENTS -**  
 
+**REQUIREMENTS -**  
 1. Python 3.11 or above.** 
 1. Operating System – Windows or Linux Based.** 
 
@@ -20,7 +20,7 @@ The python libraries which can be installed manually by user are listed below-
 
 |**SNo** |**LIBRARY NAME** |
 | - | - |
-|**1** |Tkinter** |
+|**1** |Tkinter |
 |||
 
 These are dependencies which are necessary to run our code. 
