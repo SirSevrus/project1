@@ -67,7 +67,9 @@ def create_pdf(pdf_name, images):
 
     try:
         # Convert the processed images to a PDF
-        with open(pdf_name, "wb") as file:
+        if os.path.isdir(os.path.join("data", "pdf")) == False:
+            os.makedirs(os.path.join("data", "pdf"))
+        with open(os.path.join("data", "pdf", pdf_name), "wb") as file:
             file.write(img2pdf.convert(processed_images))
             logging.info(f"PDF created successfully: {pdf_name}")
     except Exception as e:

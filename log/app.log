@@ -40,3 +40,150 @@
 2024-08-10 09:04:55,762 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557_processed.png
 2024-08-10 09:04:55,763 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031_processed.png
 2024-08-10 09:04:55,763 - root - INFO - PDF creation process completed
+2024-08-10 09:15:14,910 - root - INFO - Starting PDF creation
+2024-08-10 09:15:14,950 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:15:14,966 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:15:14,979 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:15:15,017 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:15:15,075 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:15:15,091 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:15:15,104 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:15:15,141 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:15:15,146 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:15:15,149 - root - ERROR - An error occurred while creating PDF: 'str' object cannot be interpreted as an integer
+2024-08-10 09:15:15,150 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:15:15,151 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:15:15,151 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:15:15,152 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:15:15,153 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:15:15,154 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:15:15,154 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:15:15,155 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:15:15,155 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:15:15,155 - root - INFO - PDF creation process completed
+2024-08-10 09:17:01,801 - root - INFO - Starting PDF creation
+2024-08-10 09:17:01,847 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:17:01,867 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:17:01,879 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:17:01,910 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:17:01,982 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:17:02,000 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:17:02,014 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:17:02,050 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:17:02,054 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:17:02,183 - root - INFO - PDF created successfully: test.pdf
+2024-08-10 09:17:02,184 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:17:02,185 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:17:02,185 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:17:02,186 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:17:02,186 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:17:02,187 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:17:02,187 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:17:02,188 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:17:02,188 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:17:02,189 - root - INFO - PDF creation process completed
+2024-08-10 09:17:25,539 - root - INFO - Starting PDF creation
+2024-08-10 09:17:25,579 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:17:25,594 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:17:25,607 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:17:25,646 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:17:25,705 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:17:25,723 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:17:25,736 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:17:25,774 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:17:25,778 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:17:25,878 - root - INFO - PDF created successfully: test.pdf
+2024-08-10 09:17:25,879 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:17:25,880 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:17:25,881 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:17:25,881 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:17:25,882 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:17:25,883 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:17:25,884 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:17:25,885 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:17:25,885 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:17:25,885 - root - INFO - PDF creation process completed
+2024-08-10 09:18:18,981 - root - INFO - Starting PDF creation
+2024-08-10 09:18:19,021 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:18:19,036 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:18:19,048 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:18:19,086 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:18:19,143 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:18:19,161 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:18:19,174 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:18:19,213 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:18:19,216 - root - INFO - Removed alpha channel from C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:18:19,315 - root - INFO - PDF created successfully: test.pdf
+2024-08-10 09:18:19,316 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:18:19,317 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:18:19,317 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:18:19,318 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:18:19,319 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:18:19,319 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:18:19,320 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:18:19,321 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:18:19,321 - root - INFO - Deleted temporary file: C:\Users\sahil\Workspace\project1\data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:18:19,322 - root - INFO - PDF creation process completed
+2024-08-10 09:36:17,686 - root - INFO - Starting PDF creation
+2024-08-10 09:36:17,735 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:36:17,752 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:36:17,768 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:36:17,809 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:36:17,869 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:36:17,886 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:36:17,900 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:36:17,941 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:36:17,945 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:36:18,047 - root - INFO - PDF created successfully: 110082024.py
+2024-08-10 09:36:18,048 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:36:18,048 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:36:18,049 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:36:18,049 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:36:18,050 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:36:18,050 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:36:18,051 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:36:18,051 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:36:18,052 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:36:18,052 - root - INFO - PDF creation process completed
+2024-08-10 09:36:43,329 - root - INFO - Starting PDF creation
+2024-08-10 09:36:43,376 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:36:43,393 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:36:43,407 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:36:43,446 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:36:43,507 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:36:43,524 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:36:43,537 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:36:43,575 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:36:43,579 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:36:43,682 - root - INFO - PDF created successfully: 210082024.pdf
+2024-08-10 09:36:43,683 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:36:43,684 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:36:43,685 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:36:43,685 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:36:43,686 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:36:43,687 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:36:43,688 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:36:43,689 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:36:43,690 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:36:43,690 - root - INFO - PDF creation process completed
+2024-08-10 09:38:07,575 - root - INFO - Starting PDF creation
+2024-08-10 09:38:07,627 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 204254.png
+2024-08-10 09:38:07,646 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 205702.png
+2024-08-10 09:38:07,659 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-28 194616.png
+2024-08-10 09:38:07,698 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-30 204015.png
+2024-08-10 09:38:07,756 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 205818.png
+2024-08-10 09:38:07,773 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 212246.png
+2024-08-10 09:38:07,786 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-03 211456.png
+2024-08-10 09:38:07,825 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 194557.png
+2024-08-10 09:38:07,829 - root - INFO - Removed alpha channel from C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 195031.png
+2024-08-10 09:38:07,931 - root - INFO - PDF created successfully: 110082024.pdf
+2024-08-10 09:38:07,932 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 204254_processed.png
+2024-08-10 09:38:07,932 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-24 205702_processed.png
+2024-08-10 09:38:07,933 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-28 194616_processed.png
+2024-08-10 09:38:07,933 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-07-30 204015_processed.png
+2024-08-10 09:38:07,934 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 205818_processed.png
+2024-08-10 09:38:07,935 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-02 212246_processed.png
+2024-08-10 09:38:07,935 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-03 211456_processed.png
+2024-08-10 09:38:07,936 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 194557_processed.png
+2024-08-10 09:38:07,936 - root - INFO - Deleted temporary file: C:/Users/sahil/Workspace/project1/data\Screenshot 2024-08-09 195031_processed.png
+2024-08-10 09:38:07,936 - root - INFO - PDF creation process completed
