@@ -1,6 +1,7 @@
 **PROJECT 1** 
 
-**AIM –** To help students to manage their stuff like syllabus, notes, date sheets. **REQUIREMENTS -**  
+**AIM –** To help students to manage their stuff like syllabus, notes, date sheets.
+**REQUIREMENTS -**  
 
 1. Python 3.11 or above.** 
 1. Operating System – Windows or Linux Based.** 
@@ -19,15 +20,21 @@ The python libraries which can be installed manually by user are listed below-
 
 |**SNo** |**LIBRARY NAME** |
 | - | - |
+|**1** |Tkinter** |
 |||
-|||
-These are dependencies which are necessary to run our code. **HOW TO INSTALL LIBRARIES** 
 
+These are dependencies which are necessary to run our code. 
+**HOW TO INSTALL LIBRARIES** 
 You can install the libraries either by using the **pip package manager** or using **apt package manager (found on Linux).**  
 
 - **USING PIP PACKAGE MANAGER** 
-- **USING APT PACKAGE MANAGER  ![](Aspose.Words.4b87b421-78fa-41cb-be11-f8cc10c850a1.001.png)![](Aspose.Words.4b87b421-78fa-41cb-be11-f8cc10c850a1.002.png)![](Aspose.Words.4b87b421-78fa-41cb-be11-f8cc10c850a1.003.png)**
 
-  ![](Aspose.Words.4b87b421-78fa-41cb-be11-f8cc10c850a1.004.png)
+  ![](Aspose.Words.3ca08585-39f6-4207-aace-3cb7423d80c1.001.png)
+
+  PIP Package Manager generally comes included with python. For windows hosts, PIP Package Manager is the best choice for installing the python libraries.
+
+- **USING APT PACKAGE MANAGER**  
+
+  ![](Aspose.Words.3ca08585-39f6-4207-aace-3cb7423d80c1.002.png)
 
   APT Package Manager is generally found on Linux operating systems like Ubuntu, Debian etc. 
